@@ -1,5 +1,10 @@
 # :file_folder: Projects
 
+### <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/python.svg' width='18'/> Python Projects
+Project | Repository
+------- | ----------
+osm_easy_api | https://github.com/docentYT/osm_easy_api
+
 ### <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Javascript Projects
 Project | Repository
 ------- | ----------
