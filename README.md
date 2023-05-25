@@ -22,4 +22,5 @@ Project | Repository
 Blender simple tools | https://github.com/docentYT/Blender-simple-tools
 Other blender projects | https://kwiatek_123.artstation.com
 
-Website: https://docentcompany.com
+- Website: https://docentcompany.com
+- Company: https://interactivemaps.xyz
