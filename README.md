@@ -9,7 +9,7 @@ osm_easy_api | https://github.com/docentYT/osm_easy_api
 Project | Repository
 ------- | ----------
 Discord.js bot template | https://github.com/docentYT/Discord.js-bot-template
-Librus-srednia (chrome addon for polish online gradebook) | https://github.com/docentYT/Librus-srednia
+Librus Średnia (chrome addon for polish online gradebook) | https://github.com/docentYT/Librus-srednia
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Typescript Projects
 Project | Repository
