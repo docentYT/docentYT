@@ -4,6 +4,7 @@
 Project | Repository
 ------- | ----------
 osm_easy_api | https://github.com/docentYT/osm_easy_api
+OsmChange-generator-cli | https://github.com/docentYT/OsmChange-generator-cli
 
 ### <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Javascript Projects
 Project | Repository
