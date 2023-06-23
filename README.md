@@ -6,13 +6,13 @@ Project | Repository
 osm_easy_api | https://github.com/docentYT/osm_easy_api
 OsmChange-generator-cli | https://github.com/docentYT/OsmChange-generator-cli
 
-### <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Javascript Projects
+### <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> JavaScript Projects
 Project | Repository
 ------- | ----------
 Discord.js bot template | https://github.com/docentYT/Discord.js-bot-template
 Librus Średnia (chrome addon for polish online gradebook) | https://github.com/docentYT/Librus-srednia
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Typescript Projects
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> TypeScript Projects
 Project | Repository
 ------------ | -------------
 wled npm package | https://github.com/docentYT/wled
