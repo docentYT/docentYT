@@ -17,6 +17,11 @@ Project | Repository
 ------------ | -------------
 wled npm package | https://github.com/docentYT/wled
 
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="18"/> C++ Projects
+Project | Repository
+------------ | -------------
+FFvid | https://github.com/docentYT/FFvid
+
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="18"/> Blender Projects
 Project | Repository
 ------------ | -------------
