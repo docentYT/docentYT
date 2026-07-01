@@ -17,10 +17,12 @@ Project | Repository
 ------------ | -------------
 wled npm package | https://github.com/docentYT/wled
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="18"/> C++ Projects
+### <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" width="18"/> / <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="18"/> C/C++ Projects
 Project | Repository
 ------------ | -------------
 FFvid | https://github.com/docentYT/FFvid
+Bose QuietComfort Ultra Protocol Reverse-engineered | https://github.com/docentYT/Bose-QuietComfort-Ultra-Protocol
+Bose QuietComfort Ultra lib | https://github.com/docentYT/Bose-QuietComfort-Ultra-lib
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="18"/> Blender Projects
 Project | Repository
