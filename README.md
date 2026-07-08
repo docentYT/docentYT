@@ -23,6 +23,7 @@ Project | Repository
 FFvid | https://github.com/docentYT/FFvid
 Bose QuietComfort Ultra Protocol Reverse-engineered | https://github.com/docentYT/Bose-QuietComfort-Ultra-Protocol
 Bose QuietComfort Ultra lib | https://github.com/docentYT/Bose-QuietComfort-Ultra-lib
+Photo coverage analyzer | https://github.com/Interactive-Maps/Photo-coverage-analyzer
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="18"/> Blender Projects
 Project | Repository
